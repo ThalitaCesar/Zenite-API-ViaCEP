@@ -60,7 +60,6 @@ Rodar o projeto
 ### Imagens Mobile 
 
 ![zenite-mobile-telainicial](https://user-images.githubusercontent.com/83131771/195320941-0fccca2a-c4c6-46b3-824d-4c8a760176a6.png)
-![zenite-mobile-plans](https://user-images.githubusercontent.com/83131771/195320945-d780fb35-50ea-469f-b081-16a875dc3348.png)
 
 
 
