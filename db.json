@@ -1,0 +1,24 @@
+
+  
+  {
+    "plans": [
+      {
+        "img": "https://cdn.mintmobile.com/wp-content/themes/mintmobile/v3/assets/images/pushing-fox.png",
+        "title": "Plano Basic",
+        "price": "94,50"
+      },
+      {
+        "img": "https://cdn.mintmobile.com/wp-content/themes/mintmobile/v3/assets/images/coverage/fox-holding-phone.png",
+        "title": "Plano Premium",
+        "price": "120,00"
+      },
+      {
+        "img": "https://cdn.mintmobile.com/wp-content/themes/mintmobile/v3/assets/images/mfp/evergreen-fox.png",
+        "title": "Plano Família",
+        "price": "250,00"
+      }
+    ]
+  }
+   
+
+
