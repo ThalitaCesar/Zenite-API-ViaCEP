@@ -33,15 +33,19 @@ Primeiro clone no repositório
 
 Instalar todas as dependências 
 
-   npm i
+
+    npm install
+
 
 Se o json server não estiver instalado é necessário instalar para visualizar os planos
 
-   npm install -g json-server
+
+    json-server -g json-server
+
 
 Rodar o servidor (a porta precisa ser a mesma informada na url da requisição do CardProduct.jsx)
 
-    json-server --watch --port 5006 db.jso
+    json-server --watch --port 5006 db.json
 
 Rodar o projeto
 
