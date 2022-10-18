@@ -1,7 +1,5 @@
 # Zenite
 
-Projeto do desafio da Omnix
-
 ### Descrição do Problema
 
 Imagine que você foi contratado para desenvolver parte de uma
